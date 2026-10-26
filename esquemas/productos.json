@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId('665f1c2e8a1b2c3d4e5f6b03')",
+  "nombre": "Pizza Muzzarella",
+  "precio": 8500,
+  "stock": 20,
+  "categoria_id": "ObjectId('665f1c2e8a1b2c3d4e5f6b02')",
+  "activo": true,
+  "fecha_alta": "ISODate('2026-10-26T15:02:00Z')",
+  "fecha_baja": null
+}

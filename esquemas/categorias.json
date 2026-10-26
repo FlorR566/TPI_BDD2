@@ -1,0 +1,8 @@
+{
+  "_id": "ObjectId('665f1c2e8a1b2c3d4e5f6b02')",
+  "nombre": "Pizzas",
+  "descripcion": "Pizzas artesanales",
+  "activo": true,
+  "fecha_alta": "ISODate('2026-10-26T15:01:00Z')",
+  "fecha_baja": null
+}
