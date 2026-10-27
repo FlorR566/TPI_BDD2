@@ -5,7 +5,11 @@
   "email": "lucia@example.com",
   "telefono": "+54 11 5555-1234",
   "rol": "cliente",
-  "direccion": { "calle": "Av. Santa Fe 1234", "localidad": "Pilar", "provincia": "Buenos Aires" },
+  "direccion": {
+    "calle": "Av. Santa Fe 1234",
+    "localidad": "Pilar",
+    "provincia": "Buenos Aires"
+  },
   "activo": true,
   "fecha_alta": "ISODate('2026-10-26T15:00:00Z')",
   "fecha_baja": null
