@@ -1,0 +1,14 @@
+{
+  "name": "tpi-tienda-comida-nosql",
+  "version": "1.0.0",
+  "description": "TPI NoSQL - Tienda de comida con MongoDB Atlas (driver nativo)",
+  "main": "src/demo.js",
+  "scripts": {
+    "setup": "node src/setup.js",
+    "demo": "node src/demo.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0"
+  }
+}
